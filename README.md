@@ -1,17 +1,48 @@
 # data-analytical-portfolio
-# About Me
+# 👋 About Me
 
-👋 Hi, I'm Shamsa! I am a Cloud and Data Engineer focused on transforming complex data into actionable insights and building scalable cloud infrastructure. 
+Hi, I’m Shamsa — a Cloud and Data Engineer focused on transforming data into meaningful insights and building scalable, cloud-based solutions.
 
-Bridging the gap between data analytics and cloud engineering, I leverage a strong background in relational databases, automated data pipelines, and cloud-based AI systems. I hold certifications across AWS, Azure, Oracle, and IBM, and I thrive on solving technical challenges in fast-paced, hands-on environments.
+I enjoy working at the intersection of data, cloud computing, and AI, where I design efficient data workflows, manage databases, and apply cloud technologies to solve real-world problems.
 
-### 📜 Certifications
-* AWS Certified Cloud Practitioner
-* Microsoft Azure AI Fundamentals (AI-900)
-* Oracle Cloud Infrastructure AI Foundations Associate
-* IBM Data Science Practitioner & Data Fundamentals
+I’m currently building hands-on experience in Python, SQL, and cloud platforms (AWS, Azure, Oracle Cloud) with a strong focus on data analytics and data engineering fundamentals.
 
-### 🛠️ Technical Toolkit
-* Data & Databases: SQL, Python (Pandas, NumPy), Excel (Advanced Modeling)
-* Cloud & AI: AWS, Microsoft Azure, Oracle Cloud (OCI), Virtualization
-* Core Competencies: Database Querying, Data Manipulation, Cloud Systems Administration, Technical Troubleshooting
+---
+
+## 📜 Certifications
+- AWS Certified Cloud Practitioner  
+- Microsoft Azure AI Fundamentals (AI-900)  
+- Oracle Cloud Infrastructure AI Foundations Associate  
+- IBM Data Science & Data Fundamentals  
+
+---
+
+## 🛠️ Skills
+
+Programming & Data:
+- Python (Pandas, NumPy)
+- SQL
+- Excel
+
+Cloud Platforms:
+- AWS
+- Microsoft Azure
+- Oracle Cloud (OCI)
+
+Core Areas:
+- Data Analysis
+- Data Pipelines
+- Cloud Fundamentals
+- Problem Solving
+
+---
+
+## 🚀 Goals
+
+My goal is to grow into a Cloud/Data Engineer or Data Analyst role, where I can use data and cloud technologies to support better decision-making and scalable systems.
+
+---
+
+## 📫 Let’s Connect
+
+Always open to collaboration, learning, and real-world projects.
