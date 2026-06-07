@@ -1,6 +1,6 @@
 # data-analytical-portfolio
 # 👋 About Me
-# 👋 About Me
+
 
 Hi, I’m Shamsa — a Cloud and Data Engineer focused on transforming data into meaningful insights and building scalable, cloud-based solutions.
 
