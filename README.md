@@ -1,15 +1,17 @@
 # data-analytical-portfolio
 # About Me
 
-👋 Hi, I'm Shamsa! Welcome to my data portfolio. I am an entry-level Cloud and Data Engineer passionate about transforming raw data into actionable insights and building scalable cloud solutions. 
+👋 Hi, I'm Shamsa! I am a Cloud and Data Engineer focused on transforming complex data into actionable insights and building scalable cloud infrastructure. 
 
-I hold certifications in Data Science Methodology and Data Fundamentals, giving me a structured approach to solving complex problems, manipulating datasets, and driving data-informed decisions. With a background blending cloud infrastructure (AWS & Azure) and hands-on data analytics, I love building clean data pipelines and turning messy numbers into clear, visual stories.
+Bridging the gap between data analytics and cloud engineering, I leverage a strong background in relational databases, automated data pipelines, and cloud-based AI systems. I hold certifications across AWS, Azure, Oracle, and IBM, and I thrive on solving technical challenges in fast-paced, hands-on environments.
 
 ### 📜 Certifications
-* Data Science Methodology 
-* Data Fundamentals 
+* AWS Certified Cloud Practitioner
+* Microsoft Azure AI Fundamentals (AI-900)
+* Oracle Cloud Infrastructure AI Foundations Associate
+* IBM Data Science Practitioner & Data Fundamentals
 
 ### 🛠️ Technical Toolkit
-* Data Analytics: Python (Pandas, NumPy), Excel (Advanced Pivot Tables, Data Modeling)
-* Cloud & AI Infrastructure: AWS, Microsoft Azure, Virtualization
-* Core Strengths: Data Manipulation, Cloud Systems Administration, Technical Troubleshooting
+* Data & Databases: SQL, Python (Pandas, NumPy), Excel (Advanced Modeling)
+* Cloud & AI: AWS, Microsoft Azure, Oracle Cloud (OCI), Virtualization
+* Core Competencies: Database Querying, Data Manipulation, Cloud Systems Administration, Technical Troubleshooting
